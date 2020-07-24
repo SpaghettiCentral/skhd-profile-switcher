@@ -11,6 +11,9 @@ Lastly, the first line of each config must be a comment containing the config na
 `chmod +x switcher.sh`  
 `./switcher.sh NEWCONFIGNAME`  
 
+## Settings
+setting $SKHD\_PROFILE\_OVERWRITE to either true or false determines if profile saves are overwritten if the current profile name already exists as a file in the SKHD directory
+
 
 
 
